@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AR PRAVIN KUMAR 
-- 👀 I’m interested in full stack web deveoplment.
+- 👀 
 - 💞️ I’m looking to collaborate  ...
 - 📫 How to reach me ... prawin0306@gmail.com 
 
